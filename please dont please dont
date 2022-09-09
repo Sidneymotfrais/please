@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html LANG="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scaled=1.0">
+    <title>historia de rick</title>
+</head>
+<body bgcolor="#E6B0AA">
+    <h1 align="center"> RICK SANCHEZ </h1>
+
+    <font color="brown" font="comic sans">
+        <h2>Historia</h2> 
+    </font>
+    
+
+    <font size="5">
+    <p aling="justify">
+    Rick es un brillante científico un tanto borracho que secuestra a su irritable nieto adolescente Morty paravivir aventuras en otros mundos y en dimensiones alternativas. Rick Sánchez de la dimensión de la Tierra C-137es el padre de Beth Smith, y el abuelo de Morty Smith y Summer Smith.
+    </p>
+    </font>
+
+    <font color="brown">
+    <h2> ESCUDO </h2>
+    </font>
+    <img src="./image/ciudadela.jpg">
+
+    <h2> Gobernador de la ciudadela </h2>
+    <!--NOMBRE-->
+    <h3> rick mas Rick</h3>
+    <!--FOTO-->
+    <img src="./image/WeirdRickNew.jpg" alt="" width="30%" height="30%">
+    <img src="./image/ciudadela.jpg" alt="" width="40%" height="40%">
+    <h2>MAPA DEL DEPARTAMENTO</h2>
+    <!--IMAGEN-->
+    <img src="./image/wubba lubba.jpg" alt="" width="50%" height="50%">
+
+    <!-- linea horizontal -->
+    <hr width="50%" align="center" size="10" color="black">
+
+    <h2> dimensiones de los ricks </h2>
+    <!-- listas -->
+        <!-- listas ordenadas OL-->
+        <!-- listas no ordenadas UL , viñetas-->
+
+        <!--disc , circule , square-->
+        <ul type="circle">
+            dimenciones son:
+            <br> 
+            <li> la ciudadela:  </li>
+                <ul>
+                    Las dimeciones son:
+                    <li>c-137</li>
+                    <li>c-131</li>
+                    <li>c-sueñuelos</li>
+                </ul>
+            <li> las convenciones </li>
+            <li> accion de gracias de rick perra </li>
+            <li> barrio morty </li>
+            <li> dimencion c-137 </li>
+            <li> mundo tipo 1 </li>
+        </ul>
+
+        <!--1 , I , A , a ,ii-->
+        <ol type="I" start="2">
+            mortys:
+            <li>morty malvado</li>
+            <li>mortyc-137</li>
+        </ol>
+
+        <!-- referencia = enlances = hipervinculo-->
+        <a href="https://rickandmorty.com" target="_blank"> pagina ofiacial de rick and morty</a>
+
+        TODOS LAS PROVINCIAS Y DISTRITOS DE TU DEPARTAMENTO
+        MINIMO 3 referencias a paginas oficiales de ese DEPARTAMENTO
+        ORDEN Y BUENA DISTRIBUCION
+
+</body>
+</html>
